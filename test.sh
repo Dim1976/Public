@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# htop
+# htopecho 'Additional functionality'
